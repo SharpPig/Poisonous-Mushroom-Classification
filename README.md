@@ -1,4 +1,4 @@
-# ACM - Mushroom Classification 
+# Mushroom Classification 
 
 ## Langauge
 
